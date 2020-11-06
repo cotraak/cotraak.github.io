@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, National Institute of Technology Calicut, 2018
+* M.S. in Computer Science (Data Science), University of Cincinnati, 2021 (expected)
+<!--* Ph.D in Version Control Theory, GitHub University, 2018 (expected)-->
 
 Work experience
 ======
@@ -29,7 +29,7 @@ Work experience
   
 Skills
 ======
-* Skill 1
+* Python
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
