@@ -10,4 +10,4 @@ redirect_from:
 
 This is Aditya's home on the web!
 
-Lorem epsum
+Lorem ipsum
