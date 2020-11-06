@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Aditya's Portfolio"
 title_separator          : "-"
 name                     : &name "Aditya Kousik Cotra"
 description              : &description "IBM Certified Data Scientist | Deep Learning | Natural Language Processing"
